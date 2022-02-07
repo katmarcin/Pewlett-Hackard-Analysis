@@ -8,7 +8,6 @@ Large CSV datasets were provided by management as a resource. The programming la
 
 ## Results
 
-✓There is a bulleted list that addresses FOUR major results. 
 
 ### Entity Relationship Diagram
 
