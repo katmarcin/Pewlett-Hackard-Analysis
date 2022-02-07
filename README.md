@@ -33,7 +33,7 @@ https://github.com/katmarcin/Pewlett-Hackard-Analysis/blob/553594a6045e125695364
 
 72,458 roles within 7 different titles will need to be filled as the "silver tsunami" begins to make an impact. This value is derived from the first table under "Results". 
  
-There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. Less than 3% of employees are eligible for the mentorship program, yet 72,458 roles will need to be filled in the near future. Pewlett Hackard needs to expand the eligibility criteria for the mentorship program to prevent disaster when the tsunami hits. By expanding the criteria years from 1955 to 1970, we can capture groups of individuals who are early retirees, late retirees, as well as standard-age retirees. In our original analysis we had only limited the data to those born in 1965. This query would be a very beneficial addition to the analysis. 
+There are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. Less than 3% of employees are eligible for the mentorship program, yet 72,458 roles will need to be filled in the near future. Pewlett Hackard needs to expand the eligibility criteria for the mentorship program to prevent disaster when the tsunami hits. By expanding the criteria years from 1960 to 1970, we can capture groups of individuals who are early retirees, late retirees, as well as standard-age retirees. In our original analysis we had only limited the data to those born in 1965. This query would be a very beneficial addition to the analysis. 
 
 
 
